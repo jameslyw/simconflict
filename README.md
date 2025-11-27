@@ -1,4 +1,4 @@
-# 📚 JavaScript Learning Modules — README
+# 📚 JavaScript Learning Modules
 
 This repository contains a structured set of JavaScript learning modules covering fundamentals, DOM, forms, OOP, NPM, and testing.  
 
